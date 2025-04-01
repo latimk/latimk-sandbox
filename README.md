@@ -19,6 +19,7 @@ In order to make building a filter easy, the Query Builder plugin has been added
 </figure>
 
 ## Environments
+- Author: https://da.live/edit#/latimk/latimk-sandbox/list
 - Preview: https://main--latimk-sandbox--latimk.aem.page/
 - Live: https://main--latimk-sandbox--latimk.aem.live/
 
